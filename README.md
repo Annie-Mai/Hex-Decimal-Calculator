@@ -1,11 +1,4 @@
-## Assignment 4
-### Due Date: 11/28/22 - 5:00pm EST
-
-*Assignment deadlines are strictly enforced, please do try to hand in your assignments on time, and I will honor your commitment by grading them and giving feedback in a timely manner. I do understand that sometimes there may be emergencies that we need to attend to. Please do reach out to me as soon as possible if you know you won't be able to make a deadline.*
-
----
-
-## Assignment Description
+## Description
 
 In this assignment, you will be using ReactJS to create a **Hexadecimal Calculator**. This assignment is designed to help you practice creating **components** in React, and getting you all to think in terms of organizing your website/app into components and breaking it down into reusable parts.
 
