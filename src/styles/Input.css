@@ -1,0 +1,35 @@
+
+.input-wrapper{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    padding: 16px;
+    height: 8rem;
+    border-style:dashed;
+    border-color: rgba(0, 0, 0, 0.2);
+    border-radius: 16px;
+    background-color: var(--dark);
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+/* .result {
+    flex: 1;
+    font-size: 20px;
+    color: rgb(56, 66, 58);
+}
+.text {
+    flex: 1;
+    font-size: 10px;
+    color: rgb(56, 66, 58);
+} */
+h1{
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 10px;
+    color: rgb(49, 51, 49);
+}
+h3{
+    font-size: 20px;
+    color: rgb(119, 122, 120);
+}
