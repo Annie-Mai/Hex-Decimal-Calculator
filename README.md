@@ -4,18 +4,7 @@ In this assignment, you will be using ReactJS to create a **Hexadecimal Calculat
 
 ---
 
-## Instructions
-
-The requirements for this assignment will be listed below as always, you are free to use any external libraries for this assignment for styling, state management, utilities, etc... so as long as you meet these requirements.
-
-There is also starter code that has been created for you using the `create-react-app` toolchain, with some small modifications such as organizing the code into separate folders, removing tests, etc.... You should simply just be able to run `npm i` after checking out your assignment 4 repo, and run `npm run start` to start up your app.
-
-You will be developing this app locally, and grading will be done by starting your React app via the `npm run start` command that has already been provided for you, which will start up your app at `http://localhost:3000`.
-Grading percentage will be listed alongside these requirements below.
-
-## Requirements
-
-### 1) Calculator Buttons & UI - 25%
+### 1) Calculator Buttons & UI
 
 ```text
 AS a USER 
@@ -34,7 +23,7 @@ I SHOULD be presented with a clean user interface that represents a Hexadecimal 
 AND I SHOULD see an input display bar that shows the current input state of the calculator
 ```
 
-### 2) Calculator Input State Functionality - 45%
+### 2) Calculator Input State Functionality
 ```text
 AS a USER
 WHEN I INITIALLY interact with the app
@@ -73,7 +62,7 @@ I SHOULD clear my current input state, and reset back to 0
 AND I should see the input display being updated to this reset value.
 ```
 
-### 3) Error Handling Input State - 20%
+### 3) Error Handling Input State
 ```text
 AS a USER
 WHEN I interact with the app
@@ -90,7 +79,7 @@ I SHOULD have my input state evaluate to an error value
 AND I should see this error updated in the input state display
 ```
 
-### 4) Code Organizing - 10%
+### 4) Code Organizing
 ```text
 AS a DEVELOPER
 WHEN I checkout and navigate your source code
