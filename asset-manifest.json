@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hexadecimal-Calculator/static/css/main.cd9a5578.css",
+    "main.js": "/Hexadecimal-Calculator/static/js/main.11c9e7a3.js",
+    "static/js/787.a174f9e5.chunk.js": "/Hexadecimal-Calculator/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/Hexadecimal-Calculator/index.html",
+    "main.cd9a5578.css.map": "/Hexadecimal-Calculator/static/css/main.cd9a5578.css.map",
+    "main.11c9e7a3.js.map": "/Hexadecimal-Calculator/static/js/main.11c9e7a3.js.map",
+    "787.a174f9e5.chunk.js.map": "/Hexadecimal-Calculator/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd9a5578.css",
+    "static/js/main.11c9e7a3.js"
+  ]
+}
